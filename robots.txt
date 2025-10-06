@@ -1,0 +1,8 @@
+# robots.txt for GSA Admission Landing Page
+
+User-agent: *
+Disallow: /private/
+Allow: /
+
+# Sitemap location
+Sitemap: https://gsa-admission.github.io/sitemap.xml
