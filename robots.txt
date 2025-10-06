@@ -5,4 +5,4 @@ Disallow: /private/
 Allow: /
 
 # Sitemap location
-Sitemap: https://gsa-admission.github.io/sitemap.xml
+Sitemap: https://noticepointbd.github.io/gsa-admission.github.io/sitemap.xml
